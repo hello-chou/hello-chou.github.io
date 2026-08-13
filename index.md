@@ -8,7 +8,7 @@ layout: default
 
 ### Introduction
 
-Hello, this is Zhicheng Zhou (周志成). He is currently a PhD Candidate of BUPT, China. His research interests contain multimedia learning, multimodal prompt learning and recommendation systems. She has published papers in some journals, such as TOIS and EAAI.
+Hello, this is Zhicheng Zhou (周志成). He is currently a PhD Candidate of BUPT, China. His research interests contain multimodal learning, applied machine learning and recommendation systems. He has published papers in some journals, such as TOIS and EAAI.
 
 ### First Author Publication
 2026
